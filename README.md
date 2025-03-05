@@ -4,11 +4,11 @@
 I am a motivated and adaptable **Computer Science graduate** with a strong passion for continuous learning. I am excited to bring my skills and passion for growth to new challenges in the field of Computer Science.
 
 📧 Email: [kyriakoskarlettis@gmail.com](mailto:kyriakoskarlettis@gmail.com)  
-🎌 Nationality: Cypriot.
-📍 Currently Staying in: Thessaloniki, Greece.
+🎌 Nationality: Cypriot
+📍 Currently Staying in: Thessaloniki, Greece
 🔗 LinkedIn: [linkedin.com/in/kyriakos-karlettis-172a31235](https://www.linkedin.com/in/kyriakos-karlettis-172a31235/)  
 🔗 GitHub: [github.com/KYKKIS2](https://github.com/KYKKIS2)
-📱 Phone: +35799233908.
+📱 Phone: +35799233908
 
 ---
 
