@@ -5,6 +5,7 @@ I am a motivated and adaptable **Computer Science graduate** with a strong passi
 
 📧 Email: [kyriakoskarlettis@gmail.com](mailto:kyriakoskarlettis@gmail.com)  
 🎌 Nationality: Cypriot
+
 📍 Currently Staying in: Thessaloniki, Greece
 🔗 LinkedIn: [linkedin.com/in/kyriakos-karlettis-172a31235](https://www.linkedin.com/in/kyriakos-karlettis-172a31235/)  
 🔗 GitHub: [github.com/KYKKIS2](https://github.com/KYKKIS2)
