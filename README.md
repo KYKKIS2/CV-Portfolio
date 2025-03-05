@@ -7,6 +7,7 @@ I am a motivated and adaptable **Computer Science graduate** with a strong passi
 📍 Location: Nicosia, Cyprus  
 🔗 LinkedIn: [linkedin.com/in/kyriakos-karlettis-172a31235](https://www.linkedin.com/in/kyriakos-karlettis-172a31235/)  
 🔗 GitHub: [github.com/KYKKIS2](https://github.com/KYKKIS2)
+📱 Phone: +35799233908
 
 ---
 
